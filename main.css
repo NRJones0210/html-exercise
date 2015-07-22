@@ -26,3 +26,7 @@ div p {
 
 /* Target all p's and a's inside of divs */
 div p, div a {}
+
+.center {
+	text-align: center;
+}
