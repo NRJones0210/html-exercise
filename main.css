@@ -1,11 +1,11 @@
 /* Select by tagname */
 h1 {
-  color: red;
+  color: green;
 }
 
 /* Select by classname */
 .header-alt {
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid orange;
 }
 
 /* Select a single element by its ID */
