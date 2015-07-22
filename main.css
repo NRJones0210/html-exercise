@@ -30,3 +30,6 @@ div p, div a {}
 .center {
 	text-align: center;
 }
+.paragraph {
+	border: 4px solid green;
+}
